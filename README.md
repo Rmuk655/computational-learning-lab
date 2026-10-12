@@ -36,7 +36,7 @@ Notebooks from machine-learning coursework (FOML) and self-study: core ML algori
 ```bash
 git clone https://github.com/Rmuk655/computational-learning-lab.git
 cd computational-learning-lab
-pip install numpy matplotlib pandas seaborn scipy scikit-learn nltk jupyter
+pip install -r requirements.txt
 jupyter notebook
 ```
 
